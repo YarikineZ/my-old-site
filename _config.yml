@@ -1,7 +1,7 @@
 title:              Yaroslav Nasonov
 email:              yaroslav.nasonov@gmail.com
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
+author:             Yaroslav Nasonov
 baseurl:            "/"
 url:                "https://yarikinez.github.io"
 
@@ -9,8 +9,9 @@ url:                "https://yarikinez.github.io"
 twitter_username:   
 github_username:    yarikinez
 facebook_username:  yaroslav_nasonov
-instagram_username:  yarikinez
-linkedin_username:
+instagram_username: yarikinez
+linkedin_username:  yarikinez
+
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
