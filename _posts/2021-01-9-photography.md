@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photography"
-subtitle: "Just my art"
+subtitle: "My art"
 date: 2021-01-9 23:45:13 -0400
 background: '/img/posts/my_canon.jpg'
 ---
