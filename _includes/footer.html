@@ -7,6 +7,16 @@
     <div class="row">
       <div class="col-lg-10 col-md-10 mx-auto">
         <ul class="list-inline text-center">
+          {% if site.contact %}
+          <li class="list-inline-item">
+            <a href="{{ site.url }}{{site.contact}}">
+              <span class="fa-stack fa-lg">
+                <i class="fas fa-circle fa-stack-2x"></i>
+                <i class="fas fa-address-card fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
           {% if site.email %}
           <li class="list-inline-item">
             <a href="mailto:{{ site.email | encode_email }}">
