@@ -20,6 +20,11 @@ In addition to soft skills, I'm advanced in technology. I program in Python, C++
 
 A comprehensive understanding of how technology works together with business has allowed me to become a product owner in a corporation.
 
+# Key competence
+* Problem identification, market size estimation, and product development.
+* Agile practices in project management.
+* Design thinking, customer development.
+
 # Education
 * Business: [Moscow School of Management SKOLKOVO](https://www.skolkovo.ru/en) 2020
 Educational program ["Moove"](https://www.skolkovo.ru/programmes/07112020-moove-by-skolkovo-mts/). A shortened MBA for students. Grant for 100%. 
