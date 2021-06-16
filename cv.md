@@ -52,7 +52,7 @@ Development of MTS's site for software development tools and platforms, applicat
 
 --------------
 ### Clothing Industry Aggregator  2020
-Co-founder [www.lica.pro](www.lica.pro)
+Co-founder [www.lica.pro](www.lica.pro)  
 Project development from idea to market.
 
 #### Responsibilities:
@@ -75,5 +75,7 @@ Design and development of an automated wardrobe on the campus of the Higher Scho
 
 #### Achievements:
 * The developed solution completely removed queues from the wardrobe. 
+
+
 
 > If you liked my resume, then you can find out more about my professional experience in [this article]({{site.url}}/2021/01/27/25let.html){:target="_blank"}
