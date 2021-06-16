@@ -5,7 +5,7 @@ description: Can I help you?
 background: '/img/bg-about.jpg'
 ---
 
-> There is will be my CV. It also should be avaliable on Russian. Firstly, we should offer to donload CV as PDF
+> Download CV in PDF: [EN]({{site.url}}/download/CV_EN.pdf){:target="_blank"}, [RUS]({{site.url}}/download/CV_RUS.pdf){:target="_blank"}.
 
 # Some facts
 The most inquisitive person in the world.
